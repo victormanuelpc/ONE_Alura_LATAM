@@ -1,2 +1,3 @@
-# ONE_Alura_LATAM
-Introducción a Git y Git Hub
+<h1>ONE_Alura_DE_LATAM</h1>
+
+-Estado del Proyecto: En cnstrucción.
