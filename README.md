@@ -1,7 +1,9 @@
-<h1>ONE_Alura_DE_LATAM</h1>
+<h1> Sistema de Registro</h1>
 
 -Estado del Proyecto: En construcción.
 
 Para ejecutar el sistema, debes poner:
 
 ```npm install react````
+
+Sistema de Regisgtro 2
